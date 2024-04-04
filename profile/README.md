@@ -29,6 +29,40 @@
 
 - 의뢰인이 출근하는 첫날부터 점심 메뉴 선택의 늪이 시작됐다. 그는 “코로나19로 점심을 배달해서 먹는 상황이어서 선배들이 막내인 제가 먹고 싶은 걸로 시키라고 했다”며 메뉴 선정은 자연스럽게 본인의 일이 됐다고 밝혔다. -> ['무엇이든 물어보살' 점심 메뉴 때문에 퇴사한 직장인 사연에 서장훈이 “희한한 갑질"이라며 분노했다](https://www.huffingtonpost.kr/news/articleView.html?idxno=107008)
 
+
+
+## ⚙ 기술 스택
+
+Frontend - React 18.2.0, tanstack-query 5.28.4, type-script 5.4.3, zustand 4.5.2
+
+<div style="justify-content: center; display: flex">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/zustand-61DAFB?style=for-the-badge&logo=zustand&logoColor=black">
+</div>
+
+Backend - Java21 , Spring boot 3.2.1, JPA 3.1.0, MariaDB 10.3.23, Redis 7.2.4
+<div style="justify-content: center; display: flex">
+  <img src="https://img.shields.io/badge/java-B1361E?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+</div>
+Infra - AWS(EC2, S3), Docker, Jenkins, Nginx
+
+<div style="justify-content: center; display: flex">
+  <img src="https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab_cicd-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  
+</div>
+
+
+
 ## 🎥 주요 화면
 
 ### 랜딩 페이지
@@ -100,12 +134,6 @@
 <img src='https://velog.velcdn.com/images/kgh2120/post/bfddf758-e1a5-45ae-ba0a-46c8c135ac25/image.gif' width='300' height='600'>
 
 
-## ⚙ 기술 스택
-
-Frontend - React 18.2.0, tanstack-query 5.28.4, type-script 5.4.3, zustand 4.5.2
-Backend - Java21 , Spring boot 3.2.1, JPA 3.1.0, MariaDB 10.3.23, Redis 7.2.4
-
-Infra - AWS(EC2, S3), Docker, Jenkins, Nginx
 
 ## 📕 기타 산출물
 
