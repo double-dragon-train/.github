@@ -109,7 +109,8 @@
 ### 개인먹비티아이 조회
 
 <img src='https://velog.velcdn.com/images/kgh2120/post/48bbbce6-7046-4db6-9ff6-ece8ca4e916d/image.gif' width='300' height='600'>
-![](https://velog.velcdn.com/images/kgh2120/post/e3e23abf-54d3-421d-b340-5f958d4715e8/image.gif)
+<img src='https://velog.velcdn.com/images/kgh2120/post/e3e23abf-54d3-421d-b340-5f958d4715e8/image.gif' width='600' height='600'>
+
 
 ### 메뉴 추천
 
